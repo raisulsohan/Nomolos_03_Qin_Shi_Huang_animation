@@ -1,9 +1,9 @@
 # Nomolos 03 · Qin Shi Huang: the animation
 
 <p align="center">
-  <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#01-Desktop"><img src="media/peek-1-terrified.webp" width="49%" alt="The most powerful man alive, terrified of death: Qin Shi Huang"></a>
-  <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#08-Desktop"><img src="media/peek-2-silver.webp" width="49%" alt="Liquid silver: cinnabar roasted to mercury, the fatal elixir"></a>
-  <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#13-Desktop"><img src="media/peek-3-timeline.webp" width="49%" alt="The wrong label: timeline of rulers, poison accelerating decay"></a>
+  <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#01-Desktop"><img src="media/peek-1-palace.webp" width="49%" alt="The most powerful man alive, terrified of death: Qin Shi Huang in his palace"></a>
+  <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#05-Desktop"><img src="media/peek-2-dagger.webp" width="49%" alt="The dagger in the map: Jing Ke's assassination attempt in the royal court"></a>
+  <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#08-Desktop"><img src="media/peek-3-mercury.webp" width="49%" alt="Liquid silver: cinnabar roasted to mercury, the fatal elixir"></a>
   <a href="https://raisulsohan.github.io/Nomolos_03_Qin_Shi_Huang_animation/#15-Desktop"><img src="media/peek-4-army.webp" width="49%" alt="He got immortality anyway: the terracotta army standing 22 centuries later"></a>
 </p>
 
