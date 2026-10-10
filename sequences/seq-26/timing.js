@@ -1,0 +1,2 @@
+window.TIMING = window.TIMING || {};
+window.TIMING["seq-26"] = {"seq":"seq-26","source":"voice","start":389.35,"duration":23.94,"sentences":[{"id":"S101","t0":0,"t1":4.23,"speechEnd":4.23,"join":"cut","look":"paper"},{"id":"S102","t0":4.23,"t1":12.83,"speechEnd":12.83,"join":"cont","look":"paper"},{"id":"S103","t0":12.83,"t1":14.16,"speechEnd":14.16,"join":"cont","look":"paper"},{"id":"S104","t0":14.16,"t1":16.04,"speechEnd":16.04,"join":"cont","look":"paper"},{"id":"S105","t0":16.04,"t1":23.94,"speechEnd":23.58,"join":"cont","look":"paper"}]};
